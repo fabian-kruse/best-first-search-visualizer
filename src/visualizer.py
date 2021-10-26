@@ -15,7 +15,7 @@ TURQUOISE = (246, 128, 30)  # is path
 
 start_image = pygame.image.load('../images/start.jpg')
 anchor_image = pygame.image.load('../images/anchor.jpg')
-end_image = pygame.image.load('../images/end.png')
+end_image = pygame.image.load('../images/end.png')y
 
 instruction = '''This tool implements some best-first-search algorithms, like A*.
 Your first click sets the start point,
